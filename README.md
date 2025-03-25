@@ -3,10 +3,10 @@
 <h2> Cybersecurity Projects 🌱 </h2>
 
 - <b>Enterprise Network Simulation with Active Directory & DHCP </b>
-  - [Project details ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
  
 - <b>Vulnerability Assessment & Remediation Using Nessu </b>
-  - [Project details ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
  
  
 
