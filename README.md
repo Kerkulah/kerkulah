@@ -6,7 +6,7 @@
   - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
 
 - <b>SIEM Deployment & Security Monitoring Using Elastic Stack </b>
-  - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
+  - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/README.md)
 
 - <b>Vulnerability Assessment & Remediation Using Nessus </b>
   - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
