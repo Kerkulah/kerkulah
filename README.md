@@ -9,7 +9,7 @@
   - [Project details ](https://github.com/Kerkulah/Network-Scanner-with-Embedded-Graph-Nmap-Clone-?tab=readme-ov-file)
  
 -  <b>SIEM Deployment & Security Monitoring Using Elastic Stack </b>
-  - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/README.md)
+    - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/README.md)
 
 - <b>Vulnerability Assessment & Remediation Using Nessus </b>
   - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
