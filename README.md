@@ -8,6 +8,9 @@
 - <b>Network Scanner with Embedded Graph (Nmap Clone) </b>
   - [Project details ](https://github.com/Kerkulah/Network-Scanner-with-Embedded-Graph-Nmap-Clone-?tab=readme-ov-file)
  
+- <b>Alert Triage Dashboard (Log Analyzer) </b>
+  - [Project details ](https://github.com/Kerkulah/Network-Scanner-with-Embedded-Graph-Nmap-Clone-?tab=readme-ov-file)
+ 
 -  <b>SIEM Deployment & Security Monitoring Using Elastic Stack </b>
     - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/README.md)
 
