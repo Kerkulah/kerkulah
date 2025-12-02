@@ -2,6 +2,9 @@
 
 <h2> Cybersecurity Projects 🌱 </h2>
 
+-  <b>SIEM Deployment & Security Monitoring Using Elastic Stack </b>
+    - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/README.md)
+
 - <b>Enterprise Network Simulation with Active Directory & DHCP </b>
   - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
 
@@ -11,8 +14,6 @@
 - <b>Alert Triage Dashboard (Log Analyzer) </b>
   - [Project details ](https://github.com/Kerkulah/Log_Analyzer/blob/main/README.md)
  
--  <b>SIEM Deployment & Security Monitoring Using Elastic Stack </b>
-    - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/README.md)
 
 - <b>Vulnerability Assessment & Remediation Using Nessus </b>
   - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
