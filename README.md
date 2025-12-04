@@ -4,22 +4,21 @@
 
 -  <b>SIEM Deployment & Security Monitoring Using Elastic Stack </b>
     - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/README.md)
-
-- <b>Enterprise Network Simulation with Active Directory & DHCP </b>
-  - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
-
-- <b>Network Scanner with Embedded Graph (Nmap Clone) </b>
-  - [Project details ](https://github.com/Kerkulah/Network-Scanner-with-Embedded-Graph-Nmap-Clone-?tab=readme-ov-file)
- 
-- <b>Alert Triage Dashboard (Log Analyzer) </b>
-  - [Project details ](https://github.com/Kerkulah/Log_Analyzer/blob/main/README.md)
- 
-
+      
 - <b>Splunk Detection Engineering SIEM Investigation</b>
-  - [Project details ](https://github.com/Kerkulah/Splunk-Detection-Engineering-SIEM-Investigation-Project)
-
-- <b>Cloud-based Honeypot Deployment & Threat Analysis </b>
-  - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
+    - [Project details ](https://github.com/Kerkulah/Splunk-Detection-Engineering-SIEM-Investigation-Project)
+    
+- <b>Enterprise Network Simulation with Active Directory & DHCP </b>
+    - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
+    
+- <b>Network Scanner with Embedded Graph (Nmap Clone) </b>
+    - [Project details ](https://github.com/Kerkulah/Network-Scanner-with-Embedded-Graph-Nmap-Clone-?tab=readme-ov-file)
+    
+ - <b>Alert Triage Dashboard (Log Analyzer) </b>
+     - [Project details ](https://github.com/Kerkulah/Log_Analyzer/blob/main/README.md)
+    
+- <b>Cloud based Honeypot Deployment & Threat Analysis </b>
+    - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
 
 
 
