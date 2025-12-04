@@ -15,8 +15,8 @@
   - [Project details ](https://github.com/Kerkulah/Log_Analyzer/blob/main/README.md)
  
 
-- <b>Vulnerability Assessment & Remediation Using Nessus </b>
-  - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
+- <b>Splunk Detection Engineering SIEM Investigation</b>
+  - [Project details ](https://github.com/Kerkulah/Splunk-Detection-Engineering-SIEM-Investigation-Project)
 
 - <b>Cloud-based Honeypot Deployment & Threat Analysis </b>
   - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
