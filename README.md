@@ -17,10 +17,6 @@
  - <b>Alert Triage Dashboard (Log Analyzer) </b>
      - [Project details ](https://github.com/Kerkulah/Log_Analyzer/blob/main/README.md)
     
-- <b>Cloud based Honeypot Deployment & Threat Analysis </b>
-    - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
-
-
 
 
  
