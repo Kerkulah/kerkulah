@@ -5,7 +5,7 @@
 -  <b>SIEM Deployment & Security Monitoring Using Elastic Stack </b>
     - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/README.md)
       
-- <b>Splunk Detection Engineering SIEM Investigation</b>
+- <b>Splunk Detection Engineering and Incident Investigation</b>
     - [Project details ](https://github.com/Kerkulah/Splunk-Detection-Engineering-SIEM-Investigation-Project)
     
 - <b>Enterprise Network Simulation with Active Directory & DHCP </b>
