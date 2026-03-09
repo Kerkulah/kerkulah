@@ -10,10 +10,7 @@
       
 -  <b>SIEM Deployment & Security Monitoring with SPLUNK, WAZUH, and ELASTIC STACK  </b>
     - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/tree/main)
-      
-- <b>Splunk Detection Engineering and Incident Investigation</b>
-    - [Project details ](https://github.com/Kerkulah/Splunk-Detection-Engineering-SIEM-Investigation-Project)
-    
+       
 - <b>Enterprise Network Simulation with Active Directory & DHCP </b>
     - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
     
