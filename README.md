@@ -6,7 +6,7 @@
     - [Project details ](https://github.com/Kerkulah/Home-Cybersecurity-Lab-Simulation/blob/main/README.md)
  
 -  <b>DVWA / JuiceShop / Webgoat / Bwapp </b>
-    - [Project details ](https://github.com/Kerkulah/DVWA-JuiceShop-Webgoat-Bwapp/tree/e6a30bd04ec1b71f0efb5af2e0911c29b959daaa)
+    - [Project details ](https://github.com/Kerkulah/DVWA-JuiceShop-Webgoat-Bwapp)
       
 -  <b>SIEM Deployment & Security Monitoring Using Elastic Stack </b>
     - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/README.md)
