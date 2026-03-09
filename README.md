@@ -8,8 +8,8 @@
 -  <b>DVWA / JuiceShop / Webgoat / Bwapp </b>
     - [Project details ](https://github.com/Kerkulah/DVWA-JuiceShop-Webgoat-Bwapp)
       
--  <b>SIEM Deployment & Security Monitoring Using Elastic Stack </b>
-    - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/README.md)
+-  <b>SIEM Deployment & Security Monitoring Splunk / Wazuh / Elastic Stack </b>
+    - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/tree/main)
       
 - <b>Splunk Detection Engineering and Incident Investigation</b>
     - [Project details ](https://github.com/Kerkulah/Splunk-Detection-Engineering-SIEM-Investigation-Project)
