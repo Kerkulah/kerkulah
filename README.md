@@ -5,7 +5,7 @@
 -  <b>Home Lab Simulation </b>
     - [Project details ](https://github.com/Kerkulah/Home-Cybersecurity-Lab-Simulation/blob/main/README.md)
  
--  <b>DVWA / JuiceShop / Webgoat / Bwapp </b>
+-  <b>DVWA, JuiceShop, and Bwapp  </b>
     - [Project details ](https://github.com/Kerkulah/DVWA-JuiceShop-Webgoat-Bwapp)
       
 -  <b>SIEM Deployment & Security Monitoring with SPLUNK, WAZUH, and ELASTIC STACK  </b>
