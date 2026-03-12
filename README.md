@@ -5,7 +5,7 @@
 -  <b>Home Lab Simulation </b>
     - [Project details ](https://github.com/Kerkulah/Home-Cybersecurity-Lab-Simulation/blob/main/README.md)
 
--  <b>SIEM & Threat Detection  </b>
+-  <b>SIEM & Threat Detection (Splunk)  </b>
     - [Project details ]()
  
 -  <b>DVWA, JuiceShop, and Bwapp  </b>
