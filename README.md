@@ -6,7 +6,7 @@
     - [Project details ](https://github.com/Kerkulah/Home-Cybersecurity-Lab-Simulation/blob/main/README.md)
 
 -  <b>SIEM & Threat Detection (Splunk)  </b>
-    - [Project details ]()
+    - [Project details ](https://github.com/Kerkulah/SIEM-ThreatDetection-/tree/main)
  
 -  <b>DVWA, JuiceShop, and Bwapp  </b>
     - [Project details ](https://github.com/Kerkulah/DVWA-JuiceShop-Webgoat-Bwapp)
