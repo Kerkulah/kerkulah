@@ -4,6 +4,9 @@
 
 -  <b>Home Lab Simulation </b>
     - [Project details ](https://github.com/Kerkulah/Home-Cybersecurity-Lab-Simulation/blob/main/README.md)
+
+ -  <b>SIEM Deployment & Security Monitoring with SPLUNK, WAZUH, and ELASTIC STACK  </b>
+    - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/tree/main)
  
 -  <b>Phishing Triage Tool </b>
     - [Project details ](https://github.com/Kerkulah/Phishing_triage_tool/blob/main/README.md) 
@@ -15,9 +18,7 @@
 -  <b>DVWA, JuiceShop, and Bwapp  </b>
     - [Project details ](https://github.com/Kerkulah/DVWA-JuiceShop-Webgoat-Bwapp)
       
--  <b>SIEM Deployment & Security Monitoring with SPLUNK, WAZUH, and ELASTIC STACK  </b>
-    - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/tree/main)
-       
+
 - <b>Enterprise Network Simulation with Active Directory & DHCP </b>
     - [Project details ](https://github.com/Kerkulah/-Network-Simulation-with-Active-Directory)
   
