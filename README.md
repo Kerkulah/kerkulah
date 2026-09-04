@@ -6,7 +6,7 @@
     - [Project details ](https://github.com/Kerkulah/Home-Cybersecurity-Lab-Simulation/blob/main/README.md)
 
  -  <b>SIEM Deployment & Security Monitoring with SPLUNK, WAZUH, and ELASTIC STACK  </b>
-    - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/tree/main)
+    - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/Wazuh-README.md)
  
 -  <b>Phishing Triage Tool </b>
     - [Project details ](https://github.com/Kerkulah/Phishing_triage_tool/blob/main/README.md) 
