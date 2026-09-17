@@ -6,7 +6,7 @@
     - Create a fully segmented, enterprise style environment for hands on learning, including attack tools, defensive tools, vulnerable machines, Active Directory, and Docker based services. The network architecture behind a pfSense firewall, creating VLANs, building and configuring pfSense, Kali Linux, and Ubuntu Server with Docker and Portainer.
     - - [Project details ](https://github.com/Kerkulah/Home-Cybersecurity-Lab-Simulation/blob/main/README.md)
 
- -  <b>SIEM Deployment & Security Monitoring with SPLUNK, WAZUH, and ELASTIC STACK  </b>
+ -  <b>SIEM Deployment & Security Monitoring with SPLUNK and WAZUH </b>
     - This lab demonstrates how attackers perform password based SSH attacks using tools like Hydra and how security teams can detect and respond to these attacks using a Security Information and Event Management (SIEM) system. The environment consists of three core components working together to simulate a complete attack and defend scenario.
     -  - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/Wazuh-README.md)
  
