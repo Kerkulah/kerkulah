@@ -10,7 +10,7 @@
     - This lab demonstrates how attackers perform password based SSH attacks using tools like Hydra and how security teams can detect and respond to these attacks using a Security Information and Event Management (SIEM) system. The environment consists of three core components working together to simulate a complete attack and defend scenario.
     -  - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/Wazuh-README.md)
 
- -  <b>SIEM Deployment & Security Monitoring with SPLUNK and WAZUH </b>
+ -  <b>Lateral movement / Credential abuse detection </b>
     - Detects Kerberoasting: an attacker with any valid domain account enumerates Service Principal Names in Active Directory and requests Kerberos service tickets for each one. Because service tickets are encrypted with the target service account's password hash, the attacker takes the tickets offline and attempts to crack them, turning a single authenticated foothold into a path toward privileged service account credentials, with no elevated access required to trigger it.
     -  - [Project details ](https://github.com/Kerkulah/Kerberosing_detection/blob/main/README.md)
  
