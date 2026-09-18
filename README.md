@@ -1,10 +1,7 @@
 <h1> Hello, I'm Kerkulah !
 
 <h2> Cybersecurity Projects 🌱 </h2>
-
-<br />
-PROXMOX VM:
-<img src="https://imgur.com/AaSuPab.jpg"  height="50%" width="70%">
+<img src="https://imgur.com/c6eYO8Y.jpg"  height="50%" width="70%"><br />
 <br />
 
 -  <b>Home Lab Simulation </b>
