@@ -12,7 +12,7 @@
 
  -  <b>SIEM Deployment & Security Monitoring with SPLUNK and WAZUH </b>
     - Detects Kerberoasting: an attacker with any valid domain account enumerates Service Principal Names in Active Directory and requests Kerberos service tickets for each one. Because service tickets are encrypted with the target service account's password hash, the attacker takes the tickets offline and attempts to crack them, turning a single authenticated foothold into a path toward privileged service account credentials, with no elevated access required to trigger it.
-    -  - [Project details ](https://github.com/Kerkulah/SIEM-Deployment-Security-Monitoring-Elastic-/blob/main/Wazuh-README.md)
+    -  - [Project details ](https://github.com/Kerkulah/Kerberosing_detection/blob/main/README.md)
  
 -  <b>Phishing Triage Tool </b>
    
