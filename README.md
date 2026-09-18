@@ -2,6 +2,11 @@
 
 <h2> Cybersecurity Projects 🌱 </h2>
 
+<br />
+PROXMOX VM:
+<img src="https://imgur.com/AaSuPab.jpg"  height="50%" width="70%">
+<br />
+
 -  <b>Home Lab Simulation </b>
     - Create a fully segmented, enterprise style environment for hands on learning, including attack tools, defensive tools, vulnerable machines, Active Directory, and Docker based services. The network architecture behind a pfSense firewall, creating VLANs, building and configuring pfSense, Kali Linux, and Ubuntu Server with Docker and Portainer.
     - - [Project details ](https://github.com/Kerkulah/Home-Cybersecurity-Lab-Simulation/blob/main/README.md)
