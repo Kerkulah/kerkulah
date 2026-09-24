@@ -9,7 +9,7 @@
     - - [Project details ](https://github.com/Kerkulah/Home-Cybersecurity-Lab-Simulation/blob/main/README.md)
 
  -  <b>Ansible Automation</b>
-    - Automates: Linux patching, config backups, daily security checks, and daily Proxmox VM/CT reports across HomeLab
+    - Setup a dedicated Ansible controller in the homelab, establish key based SSH access to all managed hosts (five Linux VMs + the Proxmox host itself), build an inventory, and validate two playbooks (security_checks.yml, linux_updates.yml) before scheduling unattended nightly runs.
     -  - [Project details ](https://github.com/Kerkulah/Ansible-Automation)
 
  -  <b>SIEM Deployment & Security Monitoring with SPLUNK and WAZUH </b>
