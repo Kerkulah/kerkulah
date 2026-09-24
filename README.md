@@ -1,7 +1,7 @@
 <h1> Hello, I'm Kerkulah !
 
 <h2>Projects 🌱 </h2>
-<img src="https://imgur.com/c6eYO8Y.jpg"  height="50%" width="70%"><br />
+<img src="https://imgur.com/c6eYO8Y.jpg"  height="50%" width="80%"><br />
 <br />
 
 -  <b>Home Lab Simulation </b>
