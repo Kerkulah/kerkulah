@@ -38,7 +38,7 @@ End to end attack/defend simulation: Hydra driven SSH brute force attacks detect
 `Splunk` `Wazuh` `SSH Brute-Force Detection`
 
 ### [Kerberoasting / Credential Abuse Detection](https://github.com/Kerkulah/Kerberosing_detection/blob/main/README.md)
-Detects Kerberoasting activity: SPN enumeration and offline ticket-cracking attempts — turning a single authenticated foothold into privileged service-account compromise, with no elevated access required to trigger.
+Detects Kerberoasting activity: SPN enumeration and offline ticket cracking attempts, turning a single authenticated foothold into privileged service account compromise, with no elevated access required to trigger.
 `Active Directory` `Kerberos` `Lateral Movement`
 
 ### [Phishing Triage Tool](https://github.com/Kerkulah/Phishing_triage_tool/blob/main/README.md)
@@ -46,7 +46,7 @@ Collapses manual phishing triage (SPF/DKIM/DMARC checks, IOC extraction, VirusTo
 `Python` `MITRE ATT&CK` `Email Security`
 
 ### [SIEM & Threat Detection Home Lab (Splunk)](https://github.com/Kerkulah/SIEM-ThreatDetection-/tree/main)
-Multi-source log collection, MITRE ATT&CK-mapped detection rules, and a visual dashboard telling the story of activity across the network.
+Multisource log collection, MITRE ATT&CK mapped detection rules, and a visual dashboard telling the story of activity across the network.
 `Splunk` `MITRE ATT&CK` `Dashboards`
 
 ### [Alert Triage Dashboard (Log Analyzer)](https://github.com/Kerkulah/Log_Analyzer/blob/main/README.md)
