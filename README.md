@@ -2,11 +2,13 @@
 
 Cybersecurity professional focused on SOC operations, detection engineering and building enterprise style lab environments to test attacks and defenses end to end.
 
+<br />
 Blue team / SOC · SIEM & detection engineering · Active Directory & Azure
+<br  />
 Minneapolis, MN
+<br  />
 CompTIA Security+ · CySA+ · GIAC GCIH (in progress)
-
----
+<br  />
 
 ## Tech Stack
 
@@ -50,7 +52,7 @@ Multisource log collection, MITRE ATT&CK mapped detection rules, and a visual da
 `Splunk` `MITRE ATT&CK` `Dashboards`
 
 ### [Alert Triage Dashboard (Log Analyzer)](https://github.com/Kerkulah/Log_Analyzer/blob/main/README.md)
-Streamlit-based SOC simulation for parsing and triaging logs in real time across Linux syslog, Windows Event Logs, and Apache formats, emulating L1/L2 analyst workflows.
+Streamlit based SOC simulation for parsing and triaging logs in real time across Linux syslog, Windows Event Logs, and Apache formats, emulating L1/L2 analyst workflows.
 `Python` `Streamlit` `Pandas` `Regex`
 
 ### [Network Scanner with Embedded Graph (Nmap Clone)](https://github.com/Kerkulah/Network-Scanner-with-Embedded-Graph-Nmap-Clone-)
@@ -69,5 +71,5 @@ Deliberately vulnerable web apps deployed for hands on offensive security practi
 
 ## Connect
 
-[LinkedIn]http://linkedin.com/in/kerkulahcollins · Open to  L1/L2 SOC Analyst / Detection Engineering and Security Engineer roles in Minneapolis, MN
+[LinkedIn]http://linkedin.com/in/kerkulahcollins · Open to  L1/L2 SOC Analyst / Detection Engineering and Security Engineer roles.
 
