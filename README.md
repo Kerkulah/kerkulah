@@ -26,6 +26,8 @@ CompTIA Security+ · CySA+ · GIAC GCIH (in progress)
 ---
 
 ## Featured Projects
+<img src="https://imgur.com/FpD6rmp.jpg"  height="80%" width="80%">
+<br  />
 
 ### [Enterprise Home Lab Simulation](https://github.com/Kerkulah/Home-Cybersecurity-Lab-Simulation/blob/main/README.md)
 Fully segmented, enterprise style lab for hands on offense/defense work: pfSense firewall, VLAN segmentation, Active Directory, attack and defense tooling, and Docker/Portainer based services.
